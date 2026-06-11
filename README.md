@@ -127,3 +127,7 @@ git push -u origin main
 
 เรื่องที่ยังไม่เข้าใจ
 ยังต้องศึกษาเพิ่มเติมเกี่ยวกับ Network, Data Structure, การทำงานของระบบคอมพิวเตอร์ และการเขียนโปรแกรมในระดับที่ลึกขึ้น
+
+## 🔗 Repository Link
+
+[My Portfolio Repository](https://github.com/kritsadakora1599-prog/Kritsadakorn)
