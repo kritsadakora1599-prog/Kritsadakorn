@@ -48,3 +48,8 @@ Day 05: GitHub and Developer Tools
 | Web Technology Fundamentals | ศึกษาหลักการทำงานของเว็บไซต์และอินเทอร์เน็ต | ✅ |
 | Git & GitHub | ฝึกจัดการเวอร์ชันของโค้ดและการทำงานร่วมกัน | ✅ |
 | Programming Fundamentals | เรียนรู้พื้นฐานการเขียนโปรแกรมและการพัฒนาโปรเจกต์ | ✅ |
+
+🤖 AI Usage Note
+
+วันนี้ฉันใช้ AI Note
+ได้ใช้ AI เพื่อช่วยออกแบบและพัฒนา GitHub Portfolio รวมถึงสร้าง Infographic Profile สำหรับนำเสนอข้อมูลส่วนตัวในรูปแบบที่ดูเป็นมืออาชีพและทันสมัย
