@@ -56,3 +56,10 @@ Day 05: GitHub and Developer Tools
 
 ✍️Prompt ที่ฉันใช้
 Promptอกแบบ Infographic Profile แนวนอนในโทนสีน้ำเงิน-ดำ โดยใช้ข้อมูลส่วนตัวของฉัน ประกอบด้วย ชื่อ ข้อมูลการติดต่อ ความสนใจด้าน Software Development, Artificial Intelligence, Game Development และ Graphic Design พร้อมปรับรูปภาพให้มีความเป็นทางการและเหมาะสำหรับใช้ใน Portfolio
+
+🤔สิ่งที่ฉันยังต้องเรียนรู้เอง
+
+การเขียน Prompt ให้มีประสิทธิภาพมากขึ้น
+การใช้งาน AI เพื่อช่วยในการพัฒนาซอฟต์แวร์
+การประยุกต์ใช้ AI ในงานด้าน Software Engineering
+การตรวจสอบและประเมินผลลัพธ์ที่ได้จาก AI อย่างเป็นระบบ
