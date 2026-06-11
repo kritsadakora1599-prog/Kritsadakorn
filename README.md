@@ -53,3 +53,6 @@ Day 05: GitHub and Developer Tools
 
 วันนี้ฉันใช้ AI Note
 ได้ใช้ AI เพื่อช่วยออกแบบและพัฒนา GitHub Portfolio รวมถึงสร้าง Infographic Profile สำหรับนำเสนอข้อมูลส่วนตัวในรูปแบบที่ดูเป็นมืออาชีพและทันสมัย
+
+✍️Prompt ที่ฉันใช้
+Promptอกแบบ Infographic Profile แนวนอนในโทนสีน้ำเงิน-ดำ โดยใช้ข้อมูลส่วนตัวของฉัน ประกอบด้วย ชื่อ ข้อมูลการติดต่อ ความสนใจด้าน Software Development, Artificial Intelligence, Game Development และ Graphic Design พร้อมปรับรูปภาพให้มีความเป็นทางการและเหมาะสำหรับใช้ใน Portfolio
