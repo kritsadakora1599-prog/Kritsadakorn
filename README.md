@@ -27,3 +27,11 @@ Day 04: Artificial Intelligence and Web Technology
 
 Day 05: GitHub and Developer Tools
 ศึกษาการใช้งาน Git และ GitHub สำหรับจัดการเวอร์ชันของโค้ด การทำงานร่วมกันเป็นทีม และเครื่องมือที่นักพัฒนาซอฟต์แวร์นิยมใช้งานในปัจจุบัน
+
+💡 Highlights & Skills
+
+- Programming Languages: Python, C, C++
+- Core Skills: Problem Solving, Logical Thinking, Algorithm Design
+- Development Tools: Git, GitHub, VS Code
+- Areas of Interest: Artificial Intelligence, Software Engineering, Game Development, Graphic Design
+- Currently Learning: Modern Software Development and AI Technologies
