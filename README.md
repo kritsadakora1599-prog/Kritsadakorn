@@ -7,6 +7,7 @@
 | 💡 Interests | Software Development / Artificial Intelligence / Game Development / Graphic Design |
 | 🚀 Current Focus | Software Engineering / AI Technologies / Problem Solving / Project Development |
 | 🎯 Goal | พัฒนาทักษะด้าน Software Engineering และ Artificial Intelligence สร้างโปรเจกต์ที่สามารถนำไปใช้งานได้จริง และก้าวสู่การเป็น Software Engineer มืออาชีพ 
+
 🎯 Why I Study Engineering
 ผมเลือกเรียนด้านวิศวกรรมศาสตร์เพราะมีความสนใจในเทคโนโลยี การพัฒนาซอฟต์แวร์ และปัญญาประดิษฐ์ (AI) ตั้งแต่แรกเริ่ม ผมมีเป้าหมายที่จะสร้างเว็บไซต์ แอปพลิเคชัน และโปรเจกต์ที่สามารถนำไปใช้งานได้จริง รวมถึงพัฒนาความรู้ด้านการเขียนโปรแกรมเพื่อสร้างผลงานของตัวเองในอนาคต การเรียนในสายวิศวกรรมช่วยให้ผมได้ฝึกการคิดวิเคราะห์ การแก้ปัญหาอย่างเป็นระบบ และพัฒนาทักษะที่จำเป็นสำหรับการเป็น Software Engineer
 📚 What I Learned
