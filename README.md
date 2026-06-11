@@ -35,3 +35,16 @@ Day 05: GitHub and Developer Tools
 - Development Tools: Git, GitHub, VS Code
 - Areas of Interest: Artificial Intelligence, Software Engineering, Game Development, Graphic Design
 - Currently Learning: Modern Software Development and AI Technologies
+
+🧪 Learning Activities & Practice
+
+| Activity | What I Learned | Status |
+|-----------|---------------|---------|
+| Digital Technology Foundation | เข้าใจพื้นฐานของระบบคอมพิวเตอร์และเทคโนโลยีดิจิทัล | ✅ |
+| Logic & Problem Solving | ฝึกคิดเชิงตรรกะและการแก้ปัญหาอย่างเป็นขั้นตอน | ✅ |
+| Algorithm Design | ออกแบบอัลกอริทึมและวางแผนการทำงานของโปรแกรม | ✅ |
+| Flowchart Development | ฝึกสร้างผังงานเพื่อวิเคราะห์และแก้ปัญหา | ✅ |
+| Artificial Intelligence Basics | เรียนรู้พื้นฐานและแนวคิดของ AI | ✅ |
+| Web Technology Fundamentals | ศึกษาหลักการทำงานของเว็บไซต์และอินเทอร์เน็ต | ✅ |
+| Git & GitHub | ฝึกจัดการเวอร์ชันของโค้ดและการทำงานร่วมกัน | ✅ |
+| Programming Fundamentals | เรียนรู้พื้นฐานการเขียนโปรแกรมและการพัฒนาโปรเจกต์ | ✅ |
